@@ -101,7 +101,7 @@
 
 Пример (*основная ветка master, ветка в которой работа List*):
 
-        git branch master
+        git checkout master
 
         git merge List
 
